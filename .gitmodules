@@ -1,3 +1,21 @@
 [submodule "CS1332"]
 	path = CS1332
 	url = https://github.com/skymence/CS1332
+[submodule "MATH3012"]
+	path = MATH3012
+	url = https://github.com/skymence/MATH3012
+[submodule "MATH3215"]
+	path = MATH3215
+	url = https://github.com/skymence/MATH3215
+[submodule "CS2110"]
+	path = CS2110
+	url = https://github.com/skymence/CS2110
+[submodule "CS2051"]
+	path = CS2051
+	url = https://github.com/skymence/CS2051
+[submodule "CS3600"]
+	path = CS3600
+	url = https://github.com/skymence/CS3600
+[submodule "CS2340"]
+	path = CS2340
+	url = https://github.com/skymence/CS2340
