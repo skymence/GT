@@ -19,3 +19,12 @@
 [submodule "CS2340"]
 	path = CS2340
 	url = https://github.com/skymence/CS2340
+[submodule "CS4641"]
+	path = CS4641
+	url = https://github.com/skymence/CS4641
+[submodule "CS3510"]
+	path = CS3510
+	url = https://github.com/skymence/CS3510
+[submodule "CS2200"]
+	path = CS2200
+	url = https://github.com/skymence/CS2200
